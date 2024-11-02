@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+#navbar{
+    height: 60px;
+    background-color: black;
+}
+#logo{
+    color: rgb(255, 145, 0);
+    font-size: 25px;
+}
+button{
+    background-color: rgb(255, 145, 0);
+}
+a{
+    margin-right: 150px;
+    text-decoration: none;
+
+}
+
+
+#contant{
+    height: 563px;
+}
+
+
+
+.contant-box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 5px;
+    display: inline-block;
+
+}
+
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
